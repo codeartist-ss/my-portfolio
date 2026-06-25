@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: sajal-sajjad-portfolio
+    runtime: python
+    plan: free
+    buildCommand: python build_site.py
+    startCommand: python app.py
+    healthCheckPath: /health
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.13.5
