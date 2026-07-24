@@ -54,7 +54,7 @@ PORTFOLIO = {
             "stack": "Full Stack / AI / QA",
             "style": "lavender large",
             "graphic": "nodes",
-            "image": "images/centrella.png",
+            "image": "images/centrellaimg.png",
             "description": (
                 "A full-stack platform designed for underfunded hospitals, covering "
                 "resource + blood management and clinical operations. Work includes module-level "
@@ -75,7 +75,7 @@ PORTFOLIO = {
                 "A climate-tech reporting platform that combines ESG compliance metrics "
                 "and carbon-emissions data to generate a Climate Economic Value score for "
                 "properties. Contributions include requirement analysis, data-pipeline "
-                "validation, and real-time environmental data coordination."
+                "validation, and real-time environmental data coordination. Username: admin, Password: admin123"
             ),
             "link": "#",
         },
@@ -90,7 +90,7 @@ PORTFOLIO = {
             "description": (
                 "A blood inventory and donor-matching system built with linked lists and "
                 "binary search trees in C++. A working web prototype was also created using "
-                "Python, Django, HTML, and CSS."
+                "Python, Django, HTML, and CSS. Username: admin, Password: 87654321"
             ),
             "link": "https://frolicking-kringle-b5af3c.netlify.app", },
         {
