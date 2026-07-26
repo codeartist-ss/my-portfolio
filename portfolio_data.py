@@ -75,7 +75,7 @@ PORTFOLIO = {
                 "A climate-tech reporting platform that combines ESG compliance metrics "
                 "and carbon-emissions data to generate a Climate Economic Value score for "
                 "properties. Contributions include requirement analysis, data-pipeline "
-                "validation, and real-time environmental data coordination. Username: admin, Password: admin123"
+                "validation, and real-time environmental data coordination."
             ),
             "link": "#",
         },
